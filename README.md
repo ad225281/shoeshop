@@ -1,1 +1,8 @@
 # shoeshop
+Команда: Синкевич Адель и Закиев Рамазан
+Стек:
+ЯП - C#
+Платформа - .NET 8
+Интерфейс - WPF
+БД - PostgreSQL
+Инструменты - Git, GitHub, Visual Studio
